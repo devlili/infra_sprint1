@@ -1,4 +1,15 @@
-# infra_sprint1
+[![Python](https://img.shields.io/badge/-Python_3.9.10-464646??style=flat-square&logo=Python)](https://www.python.org/downloads/)
+[![Django](https://img.shields.io/badge/-Django-464646??style=flat-square&logo=Django)](https://www.djangoproject.com/)
+[![Django](https://img.shields.io/badge/-Django_rest_framework_3.12.4-464646??style=flat-square&logo=Django)](https://www.django-rest-framework.org)
+[![Django](https://img.shields.io/badge/-Nginx-464646??style=flat-square&logo=Nginx)](https://nginx.org/ru/)
+[![Django](https://img.shields.io/badge/-gunicorn-464646??style=flat-square&logo=gunicorn)](https://gunicorn.org/)
+<br>
+
+# infra_sprint1 (Kittygram)
+
+Kittygram — социальная сеть для обмена фотографиями любимых питомцев. 
+
+**_Деплой учебного проекта._**
 
 ### Как запустить проект:
 
