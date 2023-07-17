@@ -1,0 +1,5 @@
+IP: 158.160.71.200;
+name_taski: https://devlil.ddns.net/;
+name_kittygram: https://kittydev.ddns.net/;
+login: admin;
+password: 123456789;
